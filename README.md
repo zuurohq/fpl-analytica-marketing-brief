@@ -2,6 +2,8 @@
 
 A public, single-page leadership summary with a centred vertical design, real setup screenshots, an expandable roadmap and a £1,000 starting campaign allocation. Leadership may approve more if the plan and potential outcomes support it. This is a dated setup and planning brief, not live campaign reporting or a promise of 1,000 users.
 
+Updated 5 September 2026: the brief includes the published GitHub Pages campaign draft, a selected original product excerpt, completed review and browser-size checks, and the missing completed comparison. Free premium through 20 October 2026 remains a proposal requiring leadership approval; dependent founding-offer dates must follow that decision. Campaign spending remains £0. The leadership summary links only to GitHub Pages for the campaign review.
+
 Author, owner and marketing lead: **Bola Ehis Aburime**. Status: **5 September 2026**.
 
 `index.html` is self-contained: screenshots and Ubuntu Sans fonts are embedded. It has no tracking, forms, external scripts, customer-data connection or external font requests. The detailed working records remain private.
