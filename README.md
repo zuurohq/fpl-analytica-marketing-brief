@@ -11,3 +11,13 @@ Primary colours: navy **#00426E** and magenta **#B71142**, verified against FPL 
 Font copyright: Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubuntu Font Licence 1.0. See `FONT-LICENCE.txt`; original font files are embedded without modification.
 
 Publication: GitHub Pages, main branch, repository root. Update only this public summary and approved assets. Keep credentials, private account IDs, DNS verification values and customer records outside this repository.
+
+## Hours and professional fees
+
+Bola's hours, consulting fee and execution fee must be agreed separately with FPL leadership. They are outside the marketing campaign spend budget. The ten-hour weekly figure is a combined team planning allowance; it does not establish Bola's individual hours or fees.
+
+---
+
+Marketing project, plans, strategy and contents
+
+**© Bola Aburime 2026 | All Rights Reserved**
