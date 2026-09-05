@@ -12,6 +12,14 @@ Font copyright: Copyright 2011, 2022, 2023 Canonical Ltd. Licensed under the Ubu
 
 Publication: GitHub Pages, main branch, repository root. Update only this public summary and approved assets. Keep credentials, private account IDs, DNS verification values and customer records outside this repository.
 
+## Campaign landing page
+
+[Open the campaign landing-page draft](https://zuurohq.github.io/fpl-analytica-marketing-brief/campaign/).
+
+The `campaign/` folder contains a static copy of the approved public Sites draft, with matching campaign wording, original brand styling, selected product excerpts and two working preview buttons. It preserves the leadership decisions about the missing completed Transfer Planner demonstration and the proposed 20 October 2026 free-access end date. The draft does not create accounts or collect personal information.
+
+Only the three selected image excerpts, font files/licence, stylesheet, small button script and public HTML are included. Full product screenshots, working project records and account details remain private. The root leadership brief is unchanged. Refresh the campaign export through the private marketing project's saved export instructions after an approved page update.
+
 ## Hours and professional fees
 
 Bola's hours, consulting fee and execution fee must be agreed separately with FPL leadership. They are outside the marketing campaign spend budget. The ten-hour weekly figure is a combined team planning allowance; it does not establish Bola's individual hours or fees.
